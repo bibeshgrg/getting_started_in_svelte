@@ -168,10 +168,12 @@
         </div>
 
         <div class="flex flex-row  justify-start items-center space-x-2 xl:text-base font-light">
+            <span><Icon icon="iconamoon:profile-fill" class="text-gray-400" /></span>
             <div class="xl:text-base font-light">{$userMultiStepFormData.email}</div>
         </div>
 
         <div class="flex flex-row  justify-start items-center space-x-2 xl:text-base font-light">
+            <span><Icon icon="iconamoon:profile-fill" class="text-gray-400" /></span>
             <div class="xl:text-base font-light">{$userMultiStepFormData.phone_number}</div>
         </div>
         
